@@ -5,7 +5,7 @@ An End to End Machine Learning Project:
 
 The objective is to learn the surrounding infrastructure necessary for reproducible and documented machine learning project. 
 
-The dataset used is the MNIST dataset of 60,000 handwritten digits. A tensorflow, sequential CNN classifier was built which had a test accuracy of 99.26%. 
+The dataset used is the MNIST dataset of 70,000 handwritten digits. A tensorflow, sequential CNN classifier was built which had a test accuracy of 99.26%. 
 
 There is a Tkinter GUI to draw a digit and test the classifier. Due to containerization, the use of Win32gui was replaced with functions from Tkinter which has affected the models performance. 
 
